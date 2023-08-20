@@ -73,7 +73,7 @@ Stay tuned for updates as the project evolves and new features are introduced.
 ## Installation
 
 1. Install a browser extension like Tampermonkey or Greasemonkey.
-2. Click [here](URL ZUM RAW-USERSCRIPT) to install the userscript.
+2. Click [here](https://github.com/phpmacher/mastodon-theme-tweetdeckish-userscript/raw/main/Theme%20Tweetdeckish.user.js) to install the userscript.
 
 ## Usage
 
